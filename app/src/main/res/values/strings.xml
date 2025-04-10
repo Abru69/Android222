@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RutasApp_Compose</string>
+    
+    <string name="API_KEY"></string>
+</resources>
