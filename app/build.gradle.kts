@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.rutasapp_compose"
+    namespace = "com.example.mapascompose"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.rutasapp_compose"
+        applicationId = "com.example.mapascompose"
         minSdk = 26
         targetSdk = 35
         versionCode = 1
@@ -57,6 +57,7 @@ dependencies {
     implementation("com.squareup.retrofit2:converter-gson:2.9.0")
 
     implementation("com.google.android.gms:play-services-location:21.2.0")
+
 
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)

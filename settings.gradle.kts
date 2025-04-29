@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "RutasApp_Compose"
+rootProject.name = "MapasCompose"
 include(":app")
